@@ -1,0 +1,12 @@
+..\amfm\__init__.py
+..\amfm\__pycache__\__init__.cpython-39.pyc
+..\amfm\__pycache__\amfm1d.cpython-39.pyc
+..\amfm\__pycache__\amfm2d.cpython-39.pyc
+..\amfm\__pycache__\amfm3d.cpython-39.pyc
+..\amfm\amfm1d.py
+..\amfm\amfm2d.py
+..\amfm\amfm3d.py
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+top_level.txt

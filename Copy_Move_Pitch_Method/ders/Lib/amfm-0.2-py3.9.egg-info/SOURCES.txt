@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+amfm/__init__.py
+amfm/amfm1d.py
+amfm/amfm2d.py
+amfm/amfm3d.py
+amfm.egg-info/PKG-INFO
+amfm.egg-info/SOURCES.txt
+amfm.egg-info/dependency_links.txt
+amfm.egg-info/top_level.txt
